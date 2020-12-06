@@ -34,6 +34,7 @@
 ## :dart: Sobre ##
 
 <p align="center">
+	:warning: Em construção
 	<img align ="center" width="500px" heigth="500px" src="challenge.png"/>
 </p>
 
