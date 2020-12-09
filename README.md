@@ -40,9 +40,9 @@
 
 <br>
 
-Este projeto é resultado do meu segundo desafio de código no <a href="https://rocketseat.com.br/gostack">bootcamp Go Stack da Rocketseat. </a> Nele fui desafiada a colocar em prática tudo que aprendi sobre React Native.
+Este projeto é resultado do meu terceiro desafio de código no <a href="https://rocketseat.com.br/gostack">bootcamp Go Stack da Rocketseat. </a> Nele fui desafiada a colocar em prática tudo que aprendi sobre React Native.
 
-:warning:  Este projeto é complementado pelo <a href='https://github.com/LissandraRodrigues/conceitos-nodejs'> back-end criado no primeiro desafio. </a>
+:warning:  Este projeto é complementado pelo <a href='https://github.com/LissandraRodrigues/conceitos-nodejs'> back-end criado no primeiro desafio </a> e possui uma <a href='https://github.com/LissandraRodrigues/conceitos-reactjs'> versão web criada no segundo desafio. </a>
 
 ## :muscle: O que aprendi ##
 
