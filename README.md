@@ -9,7 +9,7 @@
 <h1 align="center"> Mobile com React Native </h1>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/progress-10%25-brightgreen.svg" alt="PRs Welcome">
+   <img src="https://img.shields.io/badge/progress-100%25-brightgreen.svg" alt="PRs Welcome">
    <img src = "https://img.shields.io/github/issues/LissandraRodrigues/API" />
    <img src = "https://img.shields.io/github/forks/LissandraRodrigues/API" />
    <img src = "https://img.shields.io/github/stars/LissandraRodrigues/API" />
@@ -23,7 +23,6 @@
   <a href="#rocket-tecnologias"> Tecnologias </a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requisitos"> Requisitos </a> &#xa0; | &#xa0;
   <a href="#checkered_flag-iniciando"> Iniciando </a> &#xa0; | &#xa0;
-  <a href="#bulb-dica"> Dica </a> &#xa0; | &#xa0;
   <a href="#books-onde-aprender-mais"> Onde aprender mais </a> &#xa0; | &#xa0;
   <a href="#unlock-licença"> Licença </a> &#xa0; | &#xa0;
   <a href="https://www.linkedin.com/in/luiza-lissandra/" target="_blank"> Desenvolvedora </a>
@@ -34,8 +33,9 @@
 ## :dart: Sobre ##
 
 <p align="center">
-	:warning: Em construção
-	<img align ="center" width="500px" heigth="500px" src="challenge.png"/>
+
+   <img align ="center" width="500px" heigth="500px" src="challenge-concluded.png"/>
+
 </p>
 
 <br>
@@ -46,7 +46,7 @@ Este projeto é resultado do meu segundo desafio de código no <a href="https://
 
 ## :muscle: O que aprendi ##
 
-Veja o que aprendi a partir dos conteúdos ensinados neste módulo somado às pesquisas complementares que fiz no <a href="">meu blog no Notion. [:warning: Em construção]</a> Neste artigo, falo sobre tudo que aprendi e trago recomendações gratuitas de onde você pode estudar sobre e ir para o próximo nível :blush: :rocket: 
+Veja o que aprendi a partir dos conteúdos ensinados neste módulo somado às pesquisas complementares que fiz no <a href="https://www.notion.so/Mobile-com-React-Native-9ea30f35d6ad45a5a423b1928c94d458">meu blog no Notion.</a> Neste artigo, falo sobre tudo que aprendi e trago recomendações gratuitas de onde você pode estudar sobre e ir para o próximo nível :blush: :rocket: 
 
 ## :rocket: Tecnologias ##
 
@@ -70,14 +70,20 @@ $ cd conceitos-react-native
 # Instale as dependências.
 $ yarn 
 
-# Execute o projeto.
-$ yarn dev
+# Se você for usar emulador iOS XCode, entre na pasta ios e digite o seguinte comando para instalar todas as dependências iOS:
+$ pod install 
+
+# Para executar o emulador iOS:
+$ yarn ios
+
+# Para executar no emulador Android:
+$ yarn android
 
 ```
 
 ## :books: Onde aprender mais ##
 
-:warning: Em construção
+- <a href="https://www.notion.so/Mobile-com-React-Native-9ea30f35d6ad45a5a423b1928c94d458"> Meu artigo sobre este módulo do Gostack. </a>
 
 ## :unlock: Licença ##
 
